@@ -1,0 +1,21 @@
+{
+  "하": "transitive_action",
+  "있": "existential",
+  "되": "change_of_state",
+  "않": "other",
+  "보": "perception",
+  "민감": "other",
+  "내려오": "motion",
+  "제창": "other",
+  "갈": "other",
+  "문지르": "transitive_action",
+  "찾": "transitive_action",
+  "주": "transitive_action",
+  "쓰": "transitive_action",
+  "가지": "transitive_action",
+  "깨뜨리": "transitive_action",
+  "따": "transitive_action",
+  "먹이": "transitive_action",
+  "고르": "transitive_action",
+  "지르": "transitive_action"
+}

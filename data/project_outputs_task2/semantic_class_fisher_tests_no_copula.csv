@@ -1,0 +1,7 @@
+﻿class,cls_long,cls_short,rest_long,rest_short,test,odds_ratio,p_value
+transitive_action,83,4,47,91,fisher_exact,40.17553191489362,2.5269400232073216e-22
+existential,0,0,130,95,none,,
+change_of_state,37,91,93,4,fisher_exact,0.01748788845563039,4.147049663170533e-27
+other,0,0,130,95,none,,
+perception,10,0,120,95,fisher_exact,inf,0.005738008338067887
+motion,0,0,130,95,none,,
